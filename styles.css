@@ -1,0 +1,43 @@
+html{
+font-family: Papyrus, fantasy;
+}
+
+#whole-card{
+width:300px;
+padding:5px;
+border:1px solid gray;
+box-shadow: 5px 5px #999999;
+background-color: #005500;
+border-radius: 10px;
+}
+
+h1{
+text-shadow: 2px 2px 5px white;
+text-align: center;
+}
+
+.pic{
+width:300px;
+border-radius: 5px;
+}
+
+#text{
+margin:opx;
+padding:5px;
+border: 1px solid gray; 
+background-color: #999999;
+border-radius: 5px;
+}
+
+.fact{
+font-style:italic;
+}
+
+ul{
+ list-style-type: none;
+padding:0px;
+}
+
+.label{
+font-weight: bold;
+}
