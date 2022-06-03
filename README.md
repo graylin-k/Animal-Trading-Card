@@ -1,2 +1,2 @@
 # Animal-Trading-Card
-Project for Udacity
+HTML and CSS project for Udacity Intro to Programming Nanodegree
